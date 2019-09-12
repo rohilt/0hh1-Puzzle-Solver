@@ -1,3 +1,3 @@
 # 0hh1-Puzzle-Solver
 This is a solver for the 0hh1 puzzle, also known as Takuzu. 
-![](0h h1 Solver.gif)
+![Alt text](0h h1 Solver.gif)
