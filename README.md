@@ -1,9 +1,8 @@
 # 0hh1-Puzzle-Solver
 This is a solver for the 0hh1 puzzle, also known as Takuzu. 
 
-## Example
+## Example (in real time)
 ![Alt text](./demo/solve.gif)
-(shown in real time)
 
 ## Game principles
 The game involves filling in the rest of a *n* x *n* grid, for some even number *n* that is chosen. Each tile within the grid can either be colored red or blue, and a certain number of tiles are already given. This particular web version of the game developed has the option of 4, 6, 8, 10, or 12 for grid sizes. 
